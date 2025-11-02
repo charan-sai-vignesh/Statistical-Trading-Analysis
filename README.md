@@ -24,18 +24,7 @@ streamlit run app.py
 ```
 
 ## Deployment
-
-### Streamlit Community Cloud
-
-1. Push your code to GitHub
-2. Visit https://share.streamlit.io
-3. Connect your GitHub account
-4. Select your repository
-5. Set main file path to `app.py`
-6. Click "Deploy"
-
-The app will be available at: `https://your-app-name.streamlit.app`
-
+The app will be available at: 'https://statistical-trading-analysis.streamlit.app/'
 ## Requirements
 
 - Python 3.8+
